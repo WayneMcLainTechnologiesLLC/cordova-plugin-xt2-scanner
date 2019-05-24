@@ -1,0 +1,1 @@
+# cordova-plugin-xt2-scanner
